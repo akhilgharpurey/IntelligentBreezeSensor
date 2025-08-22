@@ -1,0 +1,2 @@
+config BOARD_AKG_NRF52832
+	select SOC_NRF52832_QFAA
